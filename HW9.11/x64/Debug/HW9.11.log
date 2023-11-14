@@ -1,0 +1,3 @@
+﻿  HW9.11.cpp
+C:\Users\Quixar\source\repos\HW9.11\HW9.11.cpp(24,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  HW9.11.vcxproj -> C:\Users\Quixar\source\repos\HW9.11\x64\Debug\HW9.11.exe
